@@ -1,0 +1,87 @@
+C:\Users\Admin\Documents\GitHub\QuanLySanBongDa\QLSBD\QLSBD\bin\Debug\QLSBD.exe.config
+C:\Users\Admin\Documents\GitHub\QuanLySanBongDa\QLSBD\QLSBD\bin\Debug\QLSBD.exe
+C:\Users\Admin\Documents\GitHub\QuanLySanBongDa\QLSBD\QLSBD\bin\Debug\QLSBD.pdb
+C:\Users\Admin\Documents\GitHub\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.frmLogin.resources
+C:\Users\Admin\Documents\GitHub\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.frmHome.resources
+C:\Users\Admin\Documents\GitHub\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.Properties.Resources.resources
+C:\Users\Admin\Documents\GitHub\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\GitHub\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.exe
+C:\Users\Admin\Documents\GitHub\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.pdb
+C:\Users\Pham Huu Luan\Documents\GitHub\QuanLySanBongDa\QLSBD\QLSBD\bin\Debug\QLSBD.exe.config
+C:\Users\Pham Huu Luan\Documents\GitHub\QuanLySanBongDa\QLSBD\QLSBD\bin\Debug\QLSBD.exe
+C:\Users\Pham Huu Luan\Documents\GitHub\QuanLySanBongDa\QLSBD\QLSBD\bin\Debug\QLSBD.pdb
+C:\Users\Pham Huu Luan\Documents\GitHub\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.csprojAssemblyReference.cache
+C:\Users\Pham Huu Luan\Documents\GitHub\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.frmLogin.resources
+C:\Users\Pham Huu Luan\Documents\GitHub\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.frmHome.resources
+C:\Users\Pham Huu Luan\Documents\GitHub\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.Properties.Resources.resources
+C:\Users\Pham Huu Luan\Documents\GitHub\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.csproj.GenerateResource.cache
+C:\Users\Pham Huu Luan\Documents\GitHub\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.exe
+C:\Users\Pham Huu Luan\Documents\GitHub\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.pdb
+C:\Users\Admin\Documents\GitHub\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.frmCategory.resources
+C:\Users\Admin\Desktop\QuanLySanBongDa\QLSBD\QLSBD\bin\Debug\QLSBD.exe.config
+C:\Users\Admin\Desktop\QuanLySanBongDa\QLSBD\QLSBD\bin\Debug\QLSBD.exe
+C:\Users\Admin\Desktop\QuanLySanBongDa\QLSBD\QLSBD\bin\Debug\QLSBD.pdb
+C:\Users\Admin\Desktop\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.frmCategory.resources
+C:\Users\Admin\Desktop\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.frmLogin.resources
+C:\Users\Admin\Desktop\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.frmHome.resources
+C:\Users\Admin\Desktop\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.Properties.Resources.resources
+C:\Users\Admin\Desktop\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.exe
+C:\Users\Admin\Desktop\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.pdb
+C:\Users\Pham Huu Luan\Desktop\QuanLySanBongDa\QLSBD\QLSBD\bin\Debug\QLSBD.exe.config
+C:\Users\Pham Huu Luan\Desktop\QuanLySanBongDa\QLSBD\QLSBD\bin\Debug\QLSBD.exe
+C:\Users\Pham Huu Luan\Desktop\QuanLySanBongDa\QLSBD\QLSBD\bin\Debug\QLSBD.pdb
+C:\Users\Pham Huu Luan\Desktop\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.csprojAssemblyReference.cache
+C:\Users\Pham Huu Luan\Desktop\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.frmCategory.resources
+C:\Users\Pham Huu Luan\Desktop\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.frmLogin.resources
+C:\Users\Pham Huu Luan\Desktop\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.frmHome.resources
+C:\Users\Pham Huu Luan\Desktop\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.Properties.Resources.resources
+C:\Users\Pham Huu Luan\Desktop\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.csproj.GenerateResource.cache
+C:\Users\Pham Huu Luan\Desktop\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.exe
+C:\Users\Pham Huu Luan\Desktop\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.pdb
+C:\Users\Admin\Desktop\QuanLySanBongDa-2212\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLySanBongDa-2212\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.frmCategory.resources
+C:\Users\Admin\Desktop\QuanLySanBongDa-2212\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.frmLogin.resources
+C:\Users\Admin\Desktop\QuanLySanBongDa-2212\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.frmHome.resources
+C:\Users\Admin\Desktop\QuanLySanBongDa-2212\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.Properties.Resources.resources
+C:\Users\Admin\Desktop\QuanLySanBongDa-2212\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\QuanLySanBongDa-2212\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.exe
+C:\Users\Admin\Desktop\QuanLySanBongDa-2212\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.pdb
+C:\Users\Admin\Desktop\QuanLySanBongDa-2212\QuanLySanBongDa\QLSBD\QLSBD\bin\Debug\QLSBD.exe.config
+C:\Users\Admin\Desktop\QuanLySanBongDa-2212\QuanLySanBongDa\QLSBD\QLSBD\bin\Debug\QLSBD.exe
+C:\Users\Admin\Desktop\QuanLySanBongDa-2212\QuanLySanBongDa\QLSBD\QLSBD\bin\Debug\QLSBD.pdb
+C:\Users\Pham Huu Luan\Desktop\QuanLySanBongDa-2212\QuanLySanBongDa\QLSBD\QLSBD\bin\Debug\QLSBD.exe.config
+C:\Users\Pham Huu Luan\Desktop\QuanLySanBongDa-2212\QuanLySanBongDa\QLSBD\QLSBD\bin\Debug\QLSBD.exe
+C:\Users\Pham Huu Luan\Desktop\QuanLySanBongDa-2212\QuanLySanBongDa\QLSBD\QLSBD\bin\Debug\QLSBD.pdb
+C:\Users\Pham Huu Luan\Desktop\QuanLySanBongDa-2212\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.csprojAssemblyReference.cache
+C:\Users\Pham Huu Luan\Desktop\QuanLySanBongDa-2212\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.frmCategory.resources
+C:\Users\Pham Huu Luan\Desktop\QuanLySanBongDa-2212\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.frmLogin.resources
+C:\Users\Pham Huu Luan\Desktop\QuanLySanBongDa-2212\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.frmHome.resources
+C:\Users\Pham Huu Luan\Desktop\QuanLySanBongDa-2212\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.Properties.Resources.resources
+C:\Users\Pham Huu Luan\Desktop\QuanLySanBongDa-2212\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.csproj.GenerateResource.cache
+C:\Users\Pham Huu Luan\Desktop\QuanLySanBongDa-2212\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.exe
+C:\Users\Pham Huu Luan\Desktop\QuanLySanBongDa-2212\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.pdb
+C:\Users\Pham Huu Luan\Desktop\QuanLySanBongDa\QuanLySanBongDa\QLSBD\QLSBD\bin\Debug\QLSBD.exe.config
+C:\Users\Pham Huu Luan\Desktop\QuanLySanBongDa\QuanLySanBongDa\QLSBD\QLSBD\bin\Debug\QLSBD.exe
+C:\Users\Pham Huu Luan\Desktop\QuanLySanBongDa\QuanLySanBongDa\QLSBD\QLSBD\bin\Debug\QLSBD.pdb
+C:\Users\Pham Huu Luan\Desktop\QuanLySanBongDa\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.csprojAssemblyReference.cache
+C:\Users\Pham Huu Luan\Desktop\QuanLySanBongDa\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.frmCategory.resources
+C:\Users\Pham Huu Luan\Desktop\QuanLySanBongDa\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.frmLogin.resources
+C:\Users\Pham Huu Luan\Desktop\QuanLySanBongDa\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.frmHome.resources
+C:\Users\Pham Huu Luan\Desktop\QuanLySanBongDa\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.Properties.Resources.resources
+C:\Users\Pham Huu Luan\Desktop\QuanLySanBongDa\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.csproj.GenerateResource.cache
+C:\Users\Pham Huu Luan\Desktop\QuanLySanBongDa\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.exe
+C:\Users\Pham Huu Luan\Desktop\QuanLySanBongDa\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.pdb
+C:\Users\Admin\Desktop\QuanLySanBongDa-2312\QuanLySanBongDa\QuanLySanBongDa\QLSBD\QLSBD\bin\Debug\QLSBD.exe.config
+C:\Users\Admin\Desktop\QuanLySanBongDa-2312\QuanLySanBongDa\QuanLySanBongDa\QLSBD\QLSBD\bin\Debug\QLSBD.exe
+C:\Users\Admin\Desktop\QuanLySanBongDa-2312\QuanLySanBongDa\QuanLySanBongDa\QLSBD\QLSBD\bin\Debug\QLSBD.pdb
+C:\Users\Admin\Desktop\QuanLySanBongDa-2312\QuanLySanBongDa\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLySanBongDa-2312\QuanLySanBongDa\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.frmCategory.resources
+C:\Users\Admin\Desktop\QuanLySanBongDa-2312\QuanLySanBongDa\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.frmLogin.resources
+C:\Users\Admin\Desktop\QuanLySanBongDa-2312\QuanLySanBongDa\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.frmHome.resources
+C:\Users\Admin\Desktop\QuanLySanBongDa-2312\QuanLySanBongDa\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.Properties.Resources.resources
+C:\Users\Admin\Desktop\QuanLySanBongDa-2312\QuanLySanBongDa\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\QuanLySanBongDa-2312\QuanLySanBongDa\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.exe
+C:\Users\Admin\Desktop\QuanLySanBongDa-2312\QuanLySanBongDa\QuanLySanBongDa\QLSBD\QLSBD\obj\Debug\QLSBD.pdb

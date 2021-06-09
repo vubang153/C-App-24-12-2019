@@ -1,0 +1,11 @@
+C:\Users\Pham Huu Luan\Desktop\QuanLySanBongDa-2212\QuanLySanBongDa\QLSBD\QLSBD\bin\Release\QLSBD.exe.config
+C:\Users\Pham Huu Luan\Desktop\QuanLySanBongDa-2212\QuanLySanBongDa\QLSBD\QLSBD\bin\Release\QLSBD.exe
+C:\Users\Pham Huu Luan\Desktop\QuanLySanBongDa-2212\QuanLySanBongDa\QLSBD\QLSBD\bin\Release\QLSBD.pdb
+C:\Users\Pham Huu Luan\Desktop\QuanLySanBongDa-2212\QuanLySanBongDa\QLSBD\QLSBD\obj\Release\QLSBD.csprojAssemblyReference.cache
+C:\Users\Pham Huu Luan\Desktop\QuanLySanBongDa-2212\QuanLySanBongDa\QLSBD\QLSBD\obj\Release\QLSBD.frmCategory.resources
+C:\Users\Pham Huu Luan\Desktop\QuanLySanBongDa-2212\QuanLySanBongDa\QLSBD\QLSBD\obj\Release\QLSBD.frmLogin.resources
+C:\Users\Pham Huu Luan\Desktop\QuanLySanBongDa-2212\QuanLySanBongDa\QLSBD\QLSBD\obj\Release\QLSBD.frmHome.resources
+C:\Users\Pham Huu Luan\Desktop\QuanLySanBongDa-2212\QuanLySanBongDa\QLSBD\QLSBD\obj\Release\QLSBD.Properties.Resources.resources
+C:\Users\Pham Huu Luan\Desktop\QuanLySanBongDa-2212\QuanLySanBongDa\QLSBD\QLSBD\obj\Release\QLSBD.csproj.GenerateResource.cache
+C:\Users\Pham Huu Luan\Desktop\QuanLySanBongDa-2212\QuanLySanBongDa\QLSBD\QLSBD\obj\Release\QLSBD.exe
+C:\Users\Pham Huu Luan\Desktop\QuanLySanBongDa-2212\QuanLySanBongDa\QLSBD\QLSBD\obj\Release\QLSBD.pdb
